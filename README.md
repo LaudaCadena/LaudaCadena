@@ -19,17 +19,17 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 ### 📱 Apps Móviles
 Proyectos desarrollados con **MIT App Inventor 2** para practicar programación visual y conceptos de IA y data science:
 
-- [hellopurrstarted](./apps/hellopurrstarted-app) 
-- [FakeVoices](./apps/FakesVoices) 
-- [Chatbot](./apps/chatbot)
-- [Appclasificador](./apps/Appclasificador) 
-- [Mylista](./apps/Mylista) 
-- [Track My Mood](./apps/TrackMyMood) 
+- [hellopurrstarted](./tecnolochicas-data-science-projects/apps/hellopurrstarted-app) 
+- [FakeVoices](./tecnolochicas-data-science-projects/apps/FakesVoices) 
+- [Chatbot](./tecnolochicas-data-science-projects/apps/chatbot)
+- [Appclasificador](./tecnolochicas-data-science-projects/apps/Appclasificador) 
+- [Mylista](./tecnolochicas-data-science-projects/apps/Mylista) 
+- [Track My Mood](./tecnolochicas-data-science-projects/apps/TrackMyMood) 
 
 ### 📊 Análisis de Datos
 Tareas de análisis de datos realizadas en el curso, con apoyo de IA para interpretación y visualización:
 
-- [Fiesta de pizza](./data-analysis/pizza-analysis)
+- [Fiesta de pizza](./tecnolochicas-data-science-projects/data-analysis/pizza-analysis)
 
 ---
 
