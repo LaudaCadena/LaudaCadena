@@ -29,7 +29,7 @@ Proyectos desarrollados con **MIT App Inventor 2** para practicar programación 
 ### 📊 Análisis de Datos
 Tareas de análisis de datos realizadas en el curso, con apoyo de IA para interpretación y visualización:
 
-- [Fiesta de pizza](https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/data-analysis)
+- [Fiesta de pizza](https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/data-analysis/pizza-analysis)
 
 ---
 
