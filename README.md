@@ -19,17 +19,17 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 ### 📱 Apps Móviles
 Proyectos desarrollados con **MIT App Inventor 2** para practicar programación visual y conceptos de IA y data science:
 
-- [hellopurrstarted](./tecnolochicas-data-science-projects/apps/hellopurrstarted-app) 
-- [FakeVoices](./tecnolochicas-data-science-projects/apps/FakesVoices) 
-- [Chatbot](./tecnolochicas-data-science-projects/apps/chatbot)
-- [Appclasificador](./tecnolochicas-data-science-projects/apps/Appclasificador) 
-- [Mylista](./tecnolochicas-data-science-projects/apps/Mylista) 
-- [Track My Mood](./tecnolochicas-data-science-projects/apps/TrackMyMood) 
+- [hellopurrstarted](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/apps/hellopurrstarted-app) 
+- [FakeVoices](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/apps/FakesVoices) 
+- [Chatbot](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/apps/chatbot-app)
+- [Appclasificador](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/apps/appclasificador) 
+- [Mylista](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/apps/Mylista) 
+- [Track My Mood](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/apps/trackmymood) 
 
 ### 📊 Análisis de Datos
 Tareas de análisis de datos realizadas en el curso, con apoyo de IA para interpretación y visualización:
 
-- [Fiesta de pizza](./tecnolochicas-data-science-projects/data-analysis/pizza-analysis)
+- [Fiesta de pizza](./https://github.com/LaudaCadena/tecnolochicas-data-science-projects/tree/main/data-analysis)
 
 ---
 
