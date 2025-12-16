@@ -14,13 +14,34 @@ Este repositorio forma parte de mi **portafolio profesional**, donde documento m
 
 ---
 
+## 📌 Mis proyectos 
+
+### 📱 Apps Móviles
+Proyectos desarrollados con **MIT App Inventor 2** para practicar programación visual y conceptos de IA y data science:
+
+- [hellopurrstarted](./apps/hellopurrstarted-app) 
+- [FakeVoices](./apps/FakesVoices) 
+- [Chatbot](./apps/chatbot)
+- [Appclasificador](./apps/Appclasificador) 
+- [Mylista](./apps/Mylista) 
+- [Track My Mood](./apps/TrackMyMood) 
+
+### 📊 Análisis de Datos
+Tareas de análisis de datos realizadas en el curso, con apoyo de IA para interpretación y visualización:
+
+- [Fiesta de pizza](./data-analysis/pizza-analysis)
+
+---
+
 ## 🛠️ Herramientas y tecnologías
 
 **Lenguajes y entornos**
 
+* Excel (nivel intermedio)
+* SQL (PostgreSQL – nivel intermedio)
 * Python (nivel básico)
 * R (nivel básico)
-* SQL (PostgreSQL – nivel intermedio)
+* MIT App Inventor 2 (nivel básico)
 
 ---
 
